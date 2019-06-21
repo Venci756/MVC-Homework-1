@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Venko\\Desktop\\MVC Homeworks\\PizzaHut\\PizzaHut\\PizzaHut.csproj": {}
+    "C:\\Users\\Venci\\Desktop\\New folder\\SEDCRepository\\sedc7-08-aspnetmvc\\g4\\Class 05 - Start\\PizzaHut\\PizzaHut\\PizzaHut.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Venko\\Desktop\\MVC Homeworks\\PizzaHut\\PizzaHut\\PizzaHut.csproj": {
+    "C:\\Users\\Venci\\Desktop\\New folder\\SEDCRepository\\sedc7-08-aspnetmvc\\g4\\Class 05 - Start\\PizzaHut\\PizzaHut\\PizzaHut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Venko\\Desktop\\MVC Homeworks\\PizzaHut\\PizzaHut\\PizzaHut.csproj",
+        "projectUniqueName": "C:\\Users\\Venci\\Desktop\\New folder\\SEDCRepository\\sedc7-08-aspnetmvc\\g4\\Class 05 - Start\\PizzaHut\\PizzaHut\\PizzaHut.csproj",
         "projectName": "PizzaHut",
-        "projectPath": "C:\\Users\\Venko\\Desktop\\MVC Homeworks\\PizzaHut\\PizzaHut\\PizzaHut.csproj",
-        "packagesPath": "C:\\Users\\Venko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Venko\\Desktop\\MVC Homeworks\\PizzaHut\\PizzaHut\\obj\\",
+        "projectPath": "C:\\Users\\Venci\\Desktop\\New folder\\SEDCRepository\\sedc7-08-aspnetmvc\\g4\\Class 05 - Start\\PizzaHut\\PizzaHut\\PizzaHut.csproj",
+        "packagesPath": "C:\\Users\\Venci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Venci\\Desktop\\New folder\\SEDCRepository\\sedc7-08-aspnetmvc\\g4\\Class 05 - Start\\PizzaHut\\PizzaHut\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Venko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Venci\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -53,13 +53,14 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[2.1.9, )"
+              "version": "[2.1.1, )"
             }
           },
           "imports": [
